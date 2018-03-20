@@ -1,7 +1,7 @@
 {
   "name": "tjr-ubuntu-converter",
   "main": "./lib/sourcefetch",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "description": "Save your developers from the corporate grip of Apple and Microsoft. Convert them to Ubuntu and Open Source freedom with this magical library.",
   "keywords": [],
   "activationCommands": {
@@ -9,7 +9,7 @@
       "sourcefetch:fetch"
     ]
   },
-  "repository": "https://github.com/timjrobinson/atom-ubuntu-converter",
+  "repository": "git@github.com:timjrobinson/atom-ubuntu-converter.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
