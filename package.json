@@ -1,7 +1,7 @@
 {
   "name": "tjr-ubuntu-converter",
   "main": "./lib/sourcefetch",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Save your developers from the corporate grip of Apple and Microsoft. Convert them to Ubuntu and Open Source freedom with this magical library.",
   "keywords": [],
   "activationCommands": {
